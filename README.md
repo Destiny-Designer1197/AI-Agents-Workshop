@@ -3,3 +3,9 @@ I successfully completed the hands-on workshop 'From Prompt Chains to Pipelines:
 Through practical coding exercises, I gained hands-on experience with Python, Google's Gemini API, and leading open-source frameworks. I explored techniques to enhance AI capabilities, streamline automation, and apply these powerful tools to real-world engineering challenges.
 
 This workshop reinforced my understanding of LLMs, AI agent architectures, and prompt engineering, equipping me with the skills to build more sophisticated AI-driven applications using the best of open-source tools and Google’s cutting-edge AI technology.
+
+## Technologies Used  
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)  
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-API-orange?style=flat&logo=google)  
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)  
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Workflows-purple)  
